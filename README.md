@@ -12,6 +12,10 @@ The system automatically processes incoming emails with PDF attachments, analyze
 
 The project was created to explore practical concepts of email security, automated threat detection, and decision-making pipelines.
 
+![Application overview](img/Снимок экрана 2026-06-17 183650.png)
+
+*Figure 1 — General view of the system interface*
+
 ---
 
 ## Features
@@ -24,20 +28,29 @@ The project was created to explore practical concepts of email security, automat
   - Additional Actions (AA)
   - Launch actions
   - SubmitForm / ImportData operations
+
 - URL analysis:
   - URL shorteners (e.g., bit.ly, tinyurl)
   - IP-based URLs
   - Punycode domains
   - Suspicious use of `@` in URLs
+
 - Rule-based classification system:
   - CLEAN
   - VERIFY
   - MALWARE
+
+![Label routing example](img/photo_5303173086368702664_y.jpg)
+
+*Figure 2 — Email routing through labels*
+
 - AI-assisted verification for ambiguous cases (VERIFY stage only)
+
 - Gmail labeling and routing system:
   - `_SAFE`
   - `_VERIFY`
   - `_QUARANTINE`
+
 - Protection against duplicate processing and forwarding loops
 - Structured reporting of analysis results
 
@@ -49,6 +62,10 @@ The system consists of two main components:
 
 - Google Apps Script (Gmail automation layer)
 - Backend analysis service (PDF parsing + rule engine + AI verification)
+
+![Backend architecture (Render)](img/photo_5303173086368702680_y.jpg)
+
+*Figure 3 — Backend hosted on Render*
 
 ---
 
