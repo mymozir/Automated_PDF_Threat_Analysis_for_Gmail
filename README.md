@@ -1,4 +1,3 @@
-````md
 # Email Security Gateway Prototype
 
 ## About
