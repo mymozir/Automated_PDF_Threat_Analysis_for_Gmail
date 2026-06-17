@@ -12,7 +12,7 @@ The system automatically processes incoming emails with PDF attachments, analyze
 
 The project was created to explore practical concepts of email security, automated threat detection, and decision-making pipelines.
 
-![Overview of the application](img/Снимок%20экрана%202026-06-17%2184141.png)
+![Overview of the application](img/app_overview.png)
 
 *Figure 1 — Overall view of the application*
 
