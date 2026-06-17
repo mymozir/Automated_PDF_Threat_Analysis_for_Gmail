@@ -12,7 +12,7 @@ The system automatically processes incoming emails with PDF attachments, analyze
 
 The project was created to explore practical concepts of email security, automated threat detection, and decision-making pipelines.
 
-![Overview of the application](img/Снимок%20экрана%202026-06-17%20183650.png)
+![Overview of the application](img/Снимок%20экрана%202026-06-17%2184141.png)
 
 *Figure 1 — Overall view of the application*
 
@@ -98,11 +98,11 @@ Apply Gmail labels and routing
 
 ![Queue cleanup after scanning is completed](img/photo_5303173086368702688_w.jpg)
 
-*Figure 4 — Queue cleanup after scan completion*
+*Figure 4 — Queue cleanup after scan completion, step #1*
 
 ![Queue cleanup after scanning is completed](img/photo_5303173086368702687_w.jpg)
 
-*Figure 5 — Queue cleanup after scan completion*
+*Figure 5 — Queue cleanup after scan completion, step #2*
 
 ![Positive report example](img/photo_5303173086368702669_x.jpg)
 
